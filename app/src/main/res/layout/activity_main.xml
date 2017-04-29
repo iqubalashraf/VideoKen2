@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="iqubal.ashraf.videoken.MainActivity"
+    android:background="@color/mainActivityBackground">
+
+    <Button
+        android:id="@+id/playYouTubeVideo"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="@string/play_video"
+        android:background="@drawable/button_shape_join_now_events"
+        android:layout_centerInParent="true"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:textSize="12sp"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"/>
+
+</RelativeLayout>

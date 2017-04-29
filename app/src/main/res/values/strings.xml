@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VideoKen</string>
+    <string name="play_video">Play Youtube Video</string>
+    <string name="DEVELOPER_KEY">AIzaSyA5dFVXMolzHgBLTSJMjYc0Z2CeEqzUz-E</string>
+    <string name="text_unable_to_initialize_youtube_player">ERROR: unable to initialize</string>
+    <string name="text_add_voice_note">Add Voice Note</string>
+    <string name="text_add_text_note">Add Text Note</string>
+    <string name="enable_controls">Enable Controls</string>
+</resources>
